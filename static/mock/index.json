@@ -1,0 +1,147 @@
+{
+  "ret": true,
+  "data": {
+    "swiperList": [
+      {
+        "id": "001",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1809/31/da037478f37cf202.jpg_750x200_a02cf862.jpg"
+      },
+      {
+        "id": "002",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1809/12/856f100069809e02.jpg_750x200_e3485a2b.jpg"
+      },
+      {
+        "id": "003",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1808/70/5603e6a535062402.jpg_750x200_2c552f2c.jpg"
+      },
+      {
+        "id": "004",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1809/c6/2467595fffc3b302.jpg_750x200_cca13d51.jpg"
+      },
+      {
+        "id": "005",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1806/1c/4847ea66072c7b02.jpg_750x200_c32457fb.jpg"
+      }
+    ],
+    "iconsList": [
+      {
+        "id": "001",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png",
+        "title": "景点门票"
+      },
+      {
+        "id": "002",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1804/5a/13ceb38dcf262f02.png",
+        "title": "一日游"
+      },
+      {
+        "id": "003",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/20/831d62d2e1c7be02.png",
+        "title": "名胜古迹"
+      },
+      {
+        "id": "004",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1804/ff/fdf170ee89594b02.png",
+        "title": "必游榜单"
+      },
+      {
+        "id": "005",
+        "imgUrl": "https://img1.qunarzz.com/piao/fusion/1803/20/831d62d2e1c7be02.png",
+        "title": "打卡圣地"
+      },
+      {
+        "id": "006",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/20/831d62d2e1c7be02.png",
+        "title": "平遥古城"
+      },
+      {
+        "id": "007",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/97/02f5043b51b2102.png",
+        "title": "五台山"
+      },
+      {
+        "id": "008",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/c1/6f15f887179fa002.png",
+        "title": "王家大院"
+      },
+      {
+        "id": "009",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/c1/6f15f887179fa002.png",
+        "title": "乔家大院"
+      },
+      {
+        "id": "010",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/80/416c6ab3368d1f02.png",
+        "title": "全部玩乐"
+      }
+    ],
+    "recommendList": [
+      {
+        "id": "01",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/201402/27/9566b58bc52cbdbac547b28c48e8ec96.jpg_200x200_d565de35.jpg",
+        "title": "大汖温泉",
+        "content": "将名贵中草药加入温泉水中，具有强身健体的神奇功效，被视为养生圣品。",
+        "address": "迎泽区",
+        "click": "查看详情"
+      },
+      {
+        "id": "02",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1601/7d/7d5ba85cdaeee83a90.img.jpg_200x200_233cac4a.jpg",
+        "title": "台骀山滑世界",
+        "content": "滑世界体验乐园的以“体验”为理念，依据地形，打造以“滑”类活动为主体娱乐项目，以挖掘中发现的“龙龟”雏形为底蕴，复原加深其韵义，使其成为滑世界入口的标志性景观。",
+        "address": "迎泽区",
+        "click": "查看详情"
+      },
+      {
+        "id": "03",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/201402/11/dfcd923ef9a49c9a524b8c9b7869aeca.jpg_200x200_e7c0125b.jpg",
+        "title": "东湖醋园",
+        "content": "进入古色古香的美和居醋坊，犹如来到了500年前的老陈醋作坊，老醋芳香、扑鼻沁心，醋味十足，难以忘怀。",
+        "address": "杏花岭区",
+        "click": "查看详情"
+      },
+      {
+        "id": "04",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/201305/31/5d45aefbe558d610c8d65eac.jpg_200x200_72b81ed8.jpg",
+        "title": "山西晋祠博物馆",
+        "content": "晋祠是祭祀西周唐国诸侯姬虞的祠堂，创建于西周（公元前11世纪）。",
+        "address": "晋源区",
+        "click": "查看详情"
+      },
+      {
+        "id": "05",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1711/eb/eb78eca5fe929dd2a3.img.jpg_200x200_0c0582ae.jpg",
+        "title": "太原华宇百花谷",
+        "content": "太原华宇百花谷商业中心规划的体量、业态、功能、品质、体验在未来十五年内都将领先同业，首屈一指。",
+        "address": "小店区",
+        "click": "查看详情"
+      }
+    ],
+    "weekendList":[
+      {
+        "id": "01",
+        "imgUrl": "http://img1.qunarzz.com/sight/source/1509/d4/fc8b971f328b79.jpg_r_640x214_d161f3ff.jpg",
+        "title": "太原周边赏秋",
+        "overview": "秋风送爽，赏秋图绘制美丽新太原"
+      },
+      {
+        "id": "02",
+        "imgUrl": "http://img1.qunarzz.com/sight/source/1711/14/2d6405bd0868eb.jpg_r_640x214_ce59870f.jpg",
+        "title": "山西泡汤圣地",
+        "overview": "山西优质温泉大合集"
+      },
+      {
+        "id": "03",
+        "imgUrl": "http://img1.qunarzz.com/sight/source/1505/3b/286d0e8a9e73c5.jpg_r_640x214_142234cd.jpg",
+        "title": "太原必游TOP5",
+        "overview": "入晋的第一堂课"
+      },
+      {
+        "id": "04",
+        "imgUrl": "http://img1.qunarzz.com/sight/source/1509/82/5ef380ec1fcbf0.jpg_r_640x214_aee99250.jpg",
+        "title": "晋中必游TOP10",
+        "overview": "文化底蕴深厚，古老而活跃"
+      }
+    ]
+  }
+}
